@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "An extension to make connecting with your classmates on LinkedIn easier.",
   "icons": {
-    "16": "/example_icon.png"
+    "63": "app_icon.png"
   },
   "action": {
     "default_popup": "popup.html"
